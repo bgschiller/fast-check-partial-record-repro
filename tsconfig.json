@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    // If I turn on "strict": true, I no longer
+    // see the error
+    // "strict": true,
+    "skipLibCheck": true
+  }
+}
