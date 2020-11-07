@@ -1,0 +1,14 @@
+{
+  "name": "partial-record-repro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brian Schiller",
+  "license": "ISC",
+  "dependencies": {
+    "fast-check": "^2.6.0"
+  }
+}
